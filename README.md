@@ -27,4 +27,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/piggy_bank.git
+git clone [https://github.com/ваш-логин/piggy_bank.git](https://github.com/AnnaPlatoshina/Piggy_bank/blob/main/piggy_bank.py)
