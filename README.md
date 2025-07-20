@@ -7,5 +7,4 @@
 - Сохранение данных между сеансами
 
 -  Запуск
-```bash
-python piggy_bank.py
+ piggy_bank.py
